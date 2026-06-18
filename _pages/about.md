@@ -23,34 +23,59 @@ My research focuses on superconducting quantum devices, quantum transport, topol
 
 ## Research
 
+<style>
+.slider {
+  width: 100%;
+  height: 450px;
+  overflow: hidden;
+  position: relative;
+}
 
-<div class="simple-carousel">
+.slider figure {
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  animation: 15s slider infinite;
+}
 
-  <div>
+.slider figure img {
+  width: 20%;
+  float: left;
+  height: 450px;
+  object-fit: contain;
+}
+
+@keyframes slider {
+  0% { left: 0; }
+  20% { left: 0; }
+
+  25% { left: -100%; }
+  45% { left: -100%; }
+
+  50% { left: -200%; }
+  70% { left: -200%; }
+
+  75% { left: -300%; }
+  95% { left: -300%; }
+
+  100% { left: -400%; }
+}
+</style>
+
+<div class="slider">
+  <figure>
     <img src="{{ site.baseurl }}/images/research1.jpg">
-  </div>
-
-  <div>
     <img src="{{ site.baseurl }}/images/research2.jpg">
-  </div>
-
-  <div>
     <img src="{{ site.baseurl }}/images/research3.jpg">
-  </div>
-
-  <div>
     <img src="{{ site.baseurl }}/images/research4.jpg">
-  </div>
-
-  <div>
     <img src="{{ site.baseurl }}/images/research5.jpg">
-  </div>
-
+  </figure>
 </div>
 
-
-
 My research interests span superconducting quantum devices, topological quantum materials, quantum transport, and thermoelectric physics. In the coming years, I plan to investigate emerging quantum phenomena in low-dimensional systems, topological phases of matter, and superconducting platforms for scalable quantum technologies and advanced energy applications.
+
+
 
 
 ## Blog
