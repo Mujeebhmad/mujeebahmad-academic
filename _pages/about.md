@@ -27,6 +27,8 @@ My research focuses on superconducting quantum devices, quantum transport, topol
   <div><img src="/images/research1.jpg" alt="Research 1"></div>
   <div><img src="/images/research2.jpg" alt="Research 2"></div>
   <div><img src="/images/research3.jpg" alt="Research 3"></div>
+   <div><img src="/images/research3.jpg" alt="Research 4"></div>
+   <div><img src="/images/research3.jpg" alt="Research 5"></div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
@@ -63,7 +65,7 @@ $(document).ready(function(){
   object-fit: contain;
 }
 </style>
-```
+
 
 
 My research interests span superconducting quantum devices, topological quantum materials, quantum transport, and thermoelectric physics. In the coming years, I plan to investigate emerging quantum phenomena in low-dimensional systems, topological phases of matter, and superconducting platforms for scalable quantum technologies and advanced energy applications.
