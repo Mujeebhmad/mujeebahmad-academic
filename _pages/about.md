@@ -24,14 +24,45 @@ My research focuses on superconducting quantum devices, quantum transport, topol
 ## Reserch
 
 <div class="simple-carousel">
-  <div><img src="/images/research1.jpg" alt="Research 1"></div>
-  <div><img src="/images/research2.jpg" alt="Research 2"></div>
-  <div><img src="/images/research3.jpg" alt="Research 3"></div>
-   <div><img src="/images/research4.jpg" alt="Research 4"></div>
-   <div><img src="/images/research5.jpg" alt="Research 5"></div>
+  <div>
+    <img src="/images/research1.jpg" alt="Josephson Junction Device">
+  </div>
+
+  <div>
+    <img src="/images/research2.jpg" alt="Dilution Refrigerator">
+  </div>
+
+  <div>
+    <img src="/images/research3.jpg" alt="Alpha-Sn Quantum Oscillations">
+  </div>
+
+  <div>
+    <img src="/images/research4.jpg" alt="SmAlSi Transport">
+  </div>
+
+  <div>
+    <img src="/images/research5.jpg" alt="Thermoelectric Multilayer">
+  </div>
 </div>
 
+<style>
+.simple-carousel {
+  width: 100%;
+  margin: 20px auto;
+}
+
+.simple-carousel img {
+  width: 100%;
+  max-height: 350px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+</style>
+
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
 <script>
 $(document).ready(function(){
@@ -42,29 +73,11 @@ $(document).ready(function(){
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 2500,
+    arrows: true
   });
 });
 </script>
 
-<style>
-.simple-carousel {
-  width: 100%;
-  margin: auto;
-}
-
-.simple-carousel div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 300px;
-}
-
-.simple-carousel img {
-  max-height: 100%;
-  max-width: 100%;
-  object-fit: contain;
-}
-</style>
 
 
 
