@@ -21,27 +21,27 @@ My research focuses on superconducting quantum devices, quantum transport, topol
 - **2024:** Published in Physical Review B on quantum transport properties of the topological Dirac semimetal α-Sn.
 - **Current:** Working on superconducting Josephson junctions and low-temperature quantum transport.
 
-## Reserch
+## Research
 
 <div class="simple-carousel">
   <div>
-    <img src="/images/research1.jpg" alt="Josephson Junction Device">
+    <img src="{{ site.baseurl }}/images/research1.jpg" alt="Josephson Junction Device">
   </div>
 
   <div>
-    <img src="/images/research2.jpg" alt="Dilution Refrigerator">
+    <img src="{{ site.baseurl }}/images/research2.jpg" alt="Dilution Refrigerator">
   </div>
 
   <div>
-    <img src="/images/research3.jpg" alt="Alpha-Sn Quantum Oscillations">
+    <img src="{{ site.baseurl }}/images/research3.jpg" alt="Alpha-Sn Quantum Oscillations">
   </div>
 
   <div>
-    <img src="/images/research4.jpg" alt="SmAlSi Transport">
+    <img src="{{ site.baseurl }}/images/research4.jpg" alt="SmAlSi Transport">
   </div>
 
   <div>
-    <img src="/images/research5.jpg" alt="Thermoelectric Multilayer">
+    <img src="{{ site.baseurl }}/images/research5.jpg" alt="Thermoelectric Multilayer">
   </div>
 </div>
 
@@ -53,15 +53,20 @@ My research focuses on superconducting quantum devices, quantum transport, topol
 
 .simple-carousel img {
   width: 100%;
-  max-height: 350px;
+  max-height: 400px;
   object-fit: contain;
   border-radius: 8px;
 }
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css">
+
+<link rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+<link rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
 <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 
 <script>
@@ -72,15 +77,13 @@ $(document).ready(function(){
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 2500,
-    speed: 800
-    fade: true
+    autoplaySpeed: 3000,
+    speed: 800,
+    fade: true,
     arrows: true
   });
 });
 </script>
-
-
 
 
 My research interests span superconducting quantum devices, topological quantum materials, quantum transport, and thermoelectric physics. In the coming years, I plan to investigate emerging quantum phenomena in low-dimensional systems, topological phases of matter, and superconducting platforms for scalable quantum technologies and advanced energy applications.
