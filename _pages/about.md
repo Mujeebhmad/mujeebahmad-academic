@@ -8,23 +8,29 @@ redirect_from:
 ---
 
 
-Welcome to Mujeeb Ahmad’s Homepage!
+Welcome
 ======
-Dr. Mujeeb Ahmad is a Postdoctoral Research Fellow at the Institute of Physics, Polish Academy of Sciences (Warsaw, Poland). His research focuses on superconducting quantum devices, quantum transport, topological quantum materials, and thermoelectric phenomena. He combines advanced materials synthesis, nanofabrication, and cryogenic measurements to investigate fundamental quantum phenomena and develop next-generation quantum technologies.
+I am a Postdoctoral Research Fellow at the Institute of Physics, Polish Academy of Sciences (Warsaw, Poland).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+My research focuses on superconducting quantum devices, quantum transport, topological quantum materials, and thermoelectric phenomena. I combine advanced materials synthesis, nanofabrication, and cryogenic measurements to investigate fundamental quantum phenomena and develop next-generation quantum technologies.
+
+Welcome
+======
+
+2025: Published in Physical Review B on anisotropic suppression of phononic thermal conductivity in SmAlSi.
+2024: Published in Physical Review B on quantum transport properties of the topological Dirac semimetal α-Sn.
+Current: Working on superconducting Josephson junctions and low-temperature quantum transport.
+
+
 
 Reserch
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Superconducting Quantum Devices
+2. Quantum Transport
+3. Topological Quantum Materials
+3. Thermoelectric Materials
+4. Low-Temperature Physics
+5. Nanofabrication 
 
 Blog
 ------
