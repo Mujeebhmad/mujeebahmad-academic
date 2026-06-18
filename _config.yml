@@ -23,7 +23,7 @@ repository               : "Mujeebhmad/mujeebahmad-academic"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.png"
   name             : "Mujeeb Ahmad"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow at the Institute of Physics, Polish Academy of Sciences."
