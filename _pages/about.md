@@ -25,12 +25,7 @@ My research focuses on superconducting quantum devices, quantum transport, topol
 
 ## Reserch
 
-- Superconducting Quantum Devices
-- Quantum Transport
-- Topological Quantum Materials
-- Thermoelectric Materials
-- Low-Temperature Physics
-- Nanofabrication 
+My research interests span superconducting quantum devices, quantum transport, topological quantum materials, and thermoelectric phenomena. In the coming years, I aim to explore quantum coherence, topological phases, low-temperature transport, and scalable quantum technologies for next-generation quantum computing and energy-efficient devices.
 
 ## Blog
 
