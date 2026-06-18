@@ -1,14 +1,30 @@
-<!-- start custom footer snippets -->
+```html
+<div style="text-align:center; padding:10px 0;">
 
-<!-- Support for MatJax -->
-<script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
+    <div style="font-size:0.9em; margin-bottom:10px;">
+        <strong>Funded by the European Union Marie Skłodowska-Curie Actions</strong>
+    </div>
 
-<!-- Support for Mermaid -->
-<script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({startOnLoad:true, theme:'default'});
-    await mermaid.run({querySelector:'code.language-mermaid'});
-</script>
+    <div style="max-width:900px; margin:auto; font-size:0.8em; line-height:1.5;">
 
-<!-- end custom footer snippets -->
+        <p>
+            This research has received funding from the European Union's
+            Horizon Europe research and innovation programme under the
+            Marie Skłodowska-Curie Actions.
+        </p>
+
+        <p>
+            Views and opinions expressed are however those of the author(s)
+            only and do not necessarily reflect those of the European Union
+            or the European Research Executive Agency.
+        </p>
+
+        <p>
+            Neither the European Union nor the granting authority can be
+            held responsible for them.
+        </p>
+
+    </div>
+
+</div>
+```
