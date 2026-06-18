@@ -73,6 +73,8 @@ $(document).ready(function(){
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 2500,
+    speed: 800
+    fade: true
     arrows: true
   });
 });
