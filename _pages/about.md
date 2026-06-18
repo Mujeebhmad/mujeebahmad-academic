@@ -27,7 +27,6 @@ My research focuses on superconducting quantum devices, quantum transport, topol
   <div><img src="/images/research1.jpg" alt="Research 1"></div>
   <div><img src="/images/research2.jpg" alt="Research 2"></div>
   <div><img src="/images/research3.jpg" alt="Research 3"></div>
-   <div><img src="/images/research3.jpg" alt="Research 4"></div>
    <div><img src="/images/research3.jpg" alt="Research 5"></div>
 </div>
 
