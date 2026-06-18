@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 
-
-Dr. Mujeeb Ahmad is a Postdoctoral Research Fellow at the Institute of Physics, Polish Academy of Sciences (Warsaw, Poland). His research focuses on superconducting quantum devices, quantum transport, topological quantum materials, and thermoelectric phenomena. He combines advanced materials synthesis, nanofabrication, and cryogenic measurements to investigate fundamental quantum phenomena and develop next-generation quantum technologies.
-
 Welcome to Mujeeb Ahmad’s Homepage!
 ======
 Dr. Mujeeb Ahmad is a Postdoctoral Research Fellow at the Institute of Physics, Polish Academy of Sciences (Warsaw, Poland). His research focuses on superconducting quantum devices, quantum transport, topological quantum materials, and thermoelectric phenomena. He combines advanced materials synthesis, nanofabrication, and cryogenic measurements to investigate fundamental quantum phenomena and develop next-generation quantum technologies.
